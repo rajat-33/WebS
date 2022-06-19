@@ -1,8 +1,3 @@
-/*
-    company names and color in object 
-    create app
-*/ 
-
 
 import React from "react"
 import ReactDOM from "react-dom"
